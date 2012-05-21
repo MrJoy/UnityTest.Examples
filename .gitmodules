@@ -1,0 +1,3 @@
+[submodule "Assets/UnityTest"]
+	path = Assets/UnityTest
+	url = git://github.com/MrJoy/UnityTest.git
